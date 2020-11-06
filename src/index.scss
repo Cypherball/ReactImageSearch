@@ -1,0 +1,15 @@
+$primary: #5ea3d4;
+$secondary: #bf6af0;
+$success: #7ee081;
+$info: #eb5e28;
+$warning: #f9e900;
+$danger: #fb3640;
+$light: #fffaff;
+$dark: #271e34;
+
+@import '~bootstrap/scss/bootstrap';
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
